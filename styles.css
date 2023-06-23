@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap");
+
+.bodyna {
+  text-align: center;
+}
+.main-font {
+  font-family: "Prompt", sans-serif;
+  font-size: 42px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: normal;
+
+  border-style: solid;
+}
+
+.text-smooth {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 18px;
+  text-align: center;
+  font-style: italic;
+}
+.pic-frame {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 650px;
+}
+
+.text-okinawa {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.blank {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  height: 1000px;
+}
+
+.text-doc {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-style: normal;
+  font-size: 30px;
+  color: cornflowerblue;
+}
+
+.main-background {
+  background-repeat: repeat;
+  background-position: center;
+}
+
+.text-myname {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 22px;
+  text-align: center;
+  color: salmon;
+}
+
+.boder-skill {
+  border: solid bisque;
+  width: 400px;
+  margin: auto;
+  margin-bottom: 16px;
+  padding-left: 16px;
+}
+.boder-skilltext {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 18px;
+  font-style: italic;
+}
+.button w3s {
+  background-color: salmon;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.headerwarpper {
+  padding: 27px 0 68px 0;
+  line-height: 1em;
+  position: relative;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.header-logo {
+  font-family: "Prompt", sans-serif;
+  font-size: 42px;
+  display: block;
+  padding: 14px;
+  font-size: 1.5em;
+  text-decoration: none;
+  font-weight: 700;
+  color: #000;
+}
+.button {
+  text-decoration: none;
+  margin: 50px;
+  text-align: center;
+  color: #000;
+  padding: 0 1.1em 1.1em;
+}
+
+.pipi {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
