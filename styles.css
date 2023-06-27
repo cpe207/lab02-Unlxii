@@ -127,3 +127,9 @@
   margin-inline-start: 0px;
   margin-inline-end: 0px;
 }
+.card {
+  transition: all 0.3s;
+}
+.card:hover {
+  transform: scale(1.1);
+}
